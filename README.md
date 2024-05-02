@@ -14,11 +14,11 @@ The owner wants me to research methods of fixing the book ordering throughout th
 
 # Files
 
-**books_large.csv**: This file includes large books.
-**books_small.csv**: This file includes small books.
-**script.py**: Sorting.
-**sorts.py**: Sorting.
-**utils.py**: Loads books from small.csv and large.csv.
+**books_large.csv**: This file includes large books. </br>
+**books_small.csv**: This file includes small books. </br>
+**script.py**: Sorting. </br>
+**sorts.py**: Sorting. </br>
+**utils.py**: Loads books from small.csv and large.csv. </br>
 
 ## How to Clone The Repository To Your Local Machine:
 

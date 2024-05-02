@@ -8,6 +8,5 @@ def load_books(filename):
       for book in shelf:
         book['author_lower'] = book['author'].lower()
         book['title_lower'] = book['title'].lower()
-          # add your code here
         bookshelf.append(book)
   return bookshelf
